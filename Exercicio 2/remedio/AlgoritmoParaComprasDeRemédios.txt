@@ -1,0 +1,23 @@
+Pegue ou faça uma lista com os remédios que deseja comprar
+    Caso prefira comprar pessoalmente
+        Pesquise o endereço da farmacia mais proxima
+        Pegue o seu  meio de pagamento (dinheiro, cartão, celular)
+        Vá até a farmácia
+        Entregue a lista para o farmacêutico e espere
+        Pague
+        Fim
+    Caso prefira ligar
+        Pesquise o número da farmácia
+        Ligue para a farmácia
+        Informe os remédios que deseja comprar e faça o orçamento
+        Repita os 3 passos anteriores quantas vezes achar necessário
+        Ligue para a farmácia que teve o valor mais em conta
+        Diga que deseja efetuar a compra
+        Informe o seu endereço para entrega
+        Fim
+    Senão
+        Baixe um aplicativo de delivery que contenha a opção de farmácia
+        Crie a sua conta
+        Procure pelos remédios que deseja comprar
+        Adicione ao carrinho
+        Finalize a compra

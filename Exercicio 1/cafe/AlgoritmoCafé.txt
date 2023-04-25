@@ -1,0 +1,14 @@
+Pegue um copo
+Encha o copo com água
+Pegue uma panela
+Despeje a água do copo dentro da panela
+Ligue o fogão
+Coloque a panela no fogo
+Acrescente 3 colheres de açúcar dentro da panela
+Espere até a água começar a ferver
+Desligue o fogo
+Pegue uma garrafa de café
+Pegue um filtro de papel
+Coloque o filtro na garrafa
+Coloque 3 colheres de pó de café no filtro
+Despeje a água da panela dentro do filtro
